@@ -104,5 +104,8 @@
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=yk47a3h03i48tuuj9arfapzaz" alt="Spotify"/>
 </div>
 
-
 ----
+
+<!-- Footer -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A00C4&width=435&lines=%2F%2FEl+Psy+Kongroo" alt="Typing SVG" /></a>
+
