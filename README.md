@@ -53,13 +53,13 @@
     </tr>
     <tr>
       <td>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=x86-carlos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=x86-carlos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=radical&locale=pt-br&card_width=480"/>
       </td>
       <td>
-         <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x86-carlos&theme=dark&locale=pt-br&langs_count=7"/>
+         <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x86-carlos&theme=radical&locale=pt-br&langs_count=7"/>
       </td>
       <td>
-        <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x86-carlos&layout=pie&theme=dark&locale=pt-br"/>
+        <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x86-carlos&layout=pie&theme=radical&locale=pt-br"/>
       </td>
     </tr>
     <tr>
@@ -72,21 +72,21 @@
     </tr>
     <tr>
       <td>
-        <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=x86-carlos&theme=github_dark"/>
+        <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=x86-carlos&theme=radical"/>
       </td>
       <td>
-        <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x86-carlos&theme=github_dark"/>
+        <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x86-carlos&theme=radical"/>
       </td>
       <td>
-        <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x86-carlos&theme=github_dark"/>
+        <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x86-carlos&theme=radical"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x86-carlos&theme=github_dark&utcOffset=8"/>
+        <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x86-carlos&theme=radical&utcOffset=8"/>
       </td>
       <td>
-        <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=x86-carlos&theme=github_dark"/>
+        <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=x86-carlos&theme=radical"/>
       </td>
     </tr>
     <tr>
