@@ -88,6 +88,9 @@
       <td>
         <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=x86-carlos&theme=radical"/>
       </td>
+      <td>
+        <img alt="WakaTime" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=x86_carlos&theme=radical&layout=compact"/>
+      </td>
     </tr>
     <tr>
       <td align="center" colspan="3"></td>
