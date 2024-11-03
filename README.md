@@ -95,3 +95,14 @@
   </table>
   
 </div>
+
+----
+
+<!-- Estatisticas do spotify -->
+<img height="20" alt="GIF" src="https://github.com/x86-carlos/x86-carlos/blob/main/img/headphone.gif"/> Só as Bangers
+<div align="center">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=yk47a3h03i48tuuj9arfapzaz" alt="Spotify"/>
+</div>
+
+
+----
