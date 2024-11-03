@@ -20,7 +20,25 @@
 <img height="20" alt="GIF" src="https://github.com/x86-carlos/x86-carlos/blob/main/img/hacker.gif"> Sobre mim:
 
 <div align="justify">
-  <p>Olá! Meu nome é <code>Carlos Emanuel Silva e Melo Oliviera</code>, tenho 21 anos de idade e moro em Belo Horizonte - MG. Comecei a ter interesse em programação por pura curiosidade de saber como essas "coisas" (não sabia o que era software na época) que eu usava o tempo funcionavam e eram criadas. Acabei me formando no curso técnico de T.I do <b>SENAI</b> em 2019 e hoje faço Engenharia de Software na <b>PUC-MG</b> Tenho muito interesse na parte baixo nível da área de software, como a linguagem <b>C</b>, <b>Assembly</b> e <b>Arquitetura de Computadores</b> além de admirar muito o mundo <b>Open Source</b> e <b>Software Livre</b>. Quando não estou ocupado com a faculdade, gosto de customizar meu linux - assim como <a href="https://www.reddit.com/r/unixporn/">esses caras</a>, assistir <a href="https://letterboxd.com/CsOliveira/">filmes "cults"</a> e estudar assuntos diversos...</p> 
+  <p>Olá! Meu nome é <code>Carlos Emanuel Silva e Melo Oliviera</code>, tenho 21 anos de idade e moro em Belo Horizonte - MG. Comecei a ter interesse em programação por pura curiosidade de saber como essas "coisas" que eu usava o tempo todo funcionavam e eram criadas. Acabei me formando no curso técnico de T.I do <b>SENAI</b> em 2019 e hoje faço Engenharia de Software na <b>PUC-MG</b> Tenho muito interesse na parte baixo nível da área de software, como a linguagem <b>C</b>, <b>Assembly</b> e <b>Arquitetura de Computadores</b> além de admirar muito o mundo <b>Open Source</b> e <b>Software Livre</b>. Quando não estou ocupado com a faculdade, gosto de customizar meu linux - assim como <a href="https://www.reddit.com/r/unixporn/">esses caras</a> -, assistir <a href="https://letterboxd.com/CsOliveira/">filmes "cults"</a> e estudar assuntos diversos...</p> 
 </div>
 
 ---
+
+<!-- Linguagens e ferramentas -->
+<img height="20" alt="GIF" src="https://github.com/x86-carlos/x86-carlos/blob/main/img/star.gif"/>Linguagens e Ferramentas
+<div>
+  <img height="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+  <img height="50 alt="github""src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img height="50" alt="vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+  <img height="50" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img height="50" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img height="50" alt="algorithms" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" />
+  <img height="50" alt="c programming language" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img height="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height="50" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="50" alt="go programming language" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+  <img height="50" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />        
+</div>
+
+----
