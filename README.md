@@ -101,8 +101,11 @@
 
 ----
 
-<!-- Estatisticas do spotify -->
+<!-- Estatisticas musicais -->
 <img height="20" alt="GIF" src="https://github.com/x86-carlos/x86-carlos/blob/main/img/headphone.gif"/> Só as Bangers
+<div align="center">
+	<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=x86-carlos&width=400"/></a>
+</div>
 <div align="center">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=yk47a3h03i48tuuj9arfapzaz" alt="Spotify"/>
 </div>
